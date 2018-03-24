@@ -18,7 +18,7 @@ nós fizemos juntos na maioria das vezés, quando faziamos separados olhavamos a
 a parte das regras, foi essa que passamos mais tempo e até tivemos ajuda.
 
 ## Quanto tempo você gastou no total na atividade?
-duas semanas.
+duas semanas programando algumas horas do dia, exceto fim de semana.
 
 ## Informações
 O progama foi criado em python 3 por ser uma linguagem que já estamos vendo desde do começo do curso e por sentirmos mais facilidade pra trabalhar com ela.
