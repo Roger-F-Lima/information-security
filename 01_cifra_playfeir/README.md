@@ -2,7 +2,7 @@
 A Cifra Playfair é uma substituição polialfabética em bloco bigrâmico (ou digrâmico).Nesta substituição, as letras são tomadas duas a duas (bloco bigrâmico), 
 de acordo com regras aplicadas a uma grade de 5 por 5 que contém o alfabeto cifrante.<br>[ver mais](http://www.numaboa.com.br/criptografia/substituicoes/poligramicas/1041-playfair)
 
-## Equipe
+## Equip
 
 [Jefté Sousa](https://github.com/bassebete/information-security)
 [Antonio Carlos](https://github.com/AnttoniC/Seguranca-da-Informacao)<br>
